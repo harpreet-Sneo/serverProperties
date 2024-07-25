@@ -1,0 +1,101 @@
+Field Name,Field Value
+.LOINGTNCURL,https://iblnic.indusind.com/iblnic/idmobapp/TermsAndConditions.html
+ANDIV,TtBy/Vaurikn6FH6NMgY54wG4vi61FJaTrkfSIAogKw=
+ANDKEY,TsQiumwN1J1jCYHaQ3dDwmc1SCVVb0ieZ2DfapqFU+0=
+ANDROID_FORCEUPGRADE_MESSAGE,Kindly update your app to latest version available on Play Store.
+ANDROID_MIN_OS_CHK_MSG,The IndusDIRECT Mobile App is functional on Android OS version 8.1 and above. Please update your device to the latest version to continue using the app.
+ANDSSOIV,ZL2Ech/qUjvWmNecAbfMvPH3GUiGbfIPvHHIfq6Jy8mMBuL4utRSWk65H0iAKICs
+ANDSSOIV1,ZL2Ech/qUjvWmNecAbfMvPH3GUiGbfIPvHHIfq6Jy8mMBuL4utRSWk65H0iAKICs
+ANDSSOKEY,TsQiumwN1J1jCYHaQ3dDwmc1SCVVb0ieZ2DfapqFU+0=
+ANDSSOKEY1,TsQiumwN1J1jCYHaQ3dDwmc1SCVVb0ieZ2DfapqFU+0=
+ANDUSERIV,TtBy/Vaurikn6FH6NMgY54wG4vi61FJaTrkfSIAogKw=
+ANDUSERKEY,TsQiumwN1J1jCYHaQ3dDwmc1SCVVb0ieZ2DfapqFU+0=
+APPLINKANDROID,https://play.google.com/store/apps/details?id=com.indusindbank.IndusDirect
+APPLINKIOS,itms-apps://itunes.apple.com/app/id1160641726
+APP_LIVE_VERSION,5.0.8
+BOETNC,https://iblnic.indusind.com/iblnic/idmobapp/TNC_Boe.htm
+CBDT_NEFT_TC,https://iblnic.indusind.com/iblnic/idmobapp/CBDT_NEFT_TNC.htm
+CLASSFORNAME,oracle.jdbc.OracleDriver
+CONNECTION.URL,jdbc:oracle:thin:@dbiddev.indusind.com:1525/INDBPRD
+CUST_FEED_VALUE_3_ABOVE,"Thank you, We appreciate your valuable time in sharing us feedback"
+CUST_FEED_VALUE_3_BELOW,We really appreciate your valuable time in sharing us feedback
+DELTNC,https://iblnic.indusind.com/iblnic/idmobapp/TNC_DEL.htm
+DEREGISTERMSG,De-registration will remove access from IndusDirect mobile application and you will have to Re-register to use IndusDirect Mobile Application services.
+DIRTNC,https://iblnic.indusind.com/iblnic/idmobapp/TNC_IR.htm
+DISPUTERESOLUTION,"Dear Customer - Kindly note that this menu should be used ONLY for reporting Fraudulent Transactions if any in the account. Any reporting through this menu will result in immediate action by the Bank including debit freeze of the account and deactivation of access to Corporate Internet Banking, until completion of investigation. Kindly contact customer services team (idcsupport@indusind.com for IndusDirect or connectonline@indusind.com for Connect Online or Toll Free Number: 1800 2660 616 for all channels) for registering complaints/service requests. The Bank will not be liable for any loss to you due to stoppage of transaction/freezing of account/other action taken by the Bank basis reporting of transaction through this menu."
+EPCTNC,https://iblnic.indusind.com/iblnic/idmobapp/TnC_EPC.html
+FDINTRATES,https://www.indusind.com/in/en/personal/rates.html
+FDMAXAMOUNT,50000000
+FDMAXMESSAGE,"For online initiation, maximum permissible amount is INR 5 Cr only. Please approach the branch for more than INR 5 Cr FD booking."
+FDTNC,https://iblnic.indusind.com/iblnic/idmobapp/TnC_FD.html
+FORGOTMSG,"Dear IndusInd Customer, your OTP for Forgot Account Password is @OTP@ generated at @TIME@ valid for 5min."
+FPCONFIG,https://iblnic.indusind.com/iblnic/idmobapp/ConfigId.html
+FPURL,www.xyz.com
+FRAUDULENTCOUNT,3
+GST_NEFT_TC,https://iblnic.indusind.com/iblnic/idmobapp/GST_NEFT_TNC.htm
+IMPSAMOUNT,500000
+IMPSAMOUNTMAX,"For IMPS Payments, Amount should not be greater than 5 Lacs."
+IOSIV,YmZZtOI6q39P9KLZDJHejeDiv16/t91OUpzNjmaeqQg=
+IOSKEY,OFazqZsI415TJsCTdcSbaTMV0C3RpCd8P39AhMoyia0=
+IOSSSOIV,YZ6OZtfep8upB/r74xm+eYrhj1vAdxH55vj9tqMmK4Tg4r9ev7fdTlKczY5mnqkI
+IOSSSOIV1,YZ6OZtfep8upB/r74xm+eYrhj1vAdxH55vj9tqMmK4Tg4r9ev7fdTlKczY5mnqkI
+IOSSSOKEY,OFazqZsI415TJsCTdcSbaTMV0C3RpCd8P39AhMoyia0=
+IOSSSOKEY1,OFazqZsI415TJsCTdcSbaTMV0C3RpCd8P39AhMoyia0=
+IOSUSERIV,YmZZtOI6q39P9KLZDJHejeDiv16/t91OUpzNjmaeqQg=
+IOSUSERKEY,OFazqZsI415TJsCTdcSbaTMV0C3RpCd8P39AhMoyia0=
+ISO_FORCEUPGRADE_MESSAGE,Kindly update your app to latest version available on App Store.
+IS_LOOKOUT_ENABLED,TRUE
+LOGINURLTNC,https://www.indusind.com/content/dam/indusind-corporate/Other/corporate-internet-banking-tnc.pdf
+LOINGTNCURL,https://iblnic.indusind.com/iblnic/idmobapp/TermsAndConditions.html
+MAXVERSIONANDROID,9
+MAXVERSIONIOS,9
+MINVERSIONANDROID,5.0.9
+MINVERSIONIOS,5.0.7
+MNVIVKEY,4fsbf7582hjbad76
+MPIN_EXPIRY_DAYS,2
+MPIN_LOGIN_TNCURL,https://iblnic.indusind.com/iblnic/idmobapp/LTC.html
+MPIN_NUMBER_VERIFY_MSG,To enhance security of IndusDirect mobile application. We have introduced an security feature of mobile number verification. Click on proceed to continue using services.
+MPIN_SHOW_TNC,TRUE
+NEWRELEASENOTE1,Reminder to reset MPIN before expiry on the App.
+NEWRELEASENOTE2,Introduction of Statutory Payments authorization menu on Mobile Application.
+NEWRELEASENOTE3,Performance enhancements and minor bug fixes.
+PRIVACYURL,https://iblnic.indusind.com/iblnic/idmobapp/PrivacyTnC.html
+PRIVACYURLTNC,https://iblnic.indusind.com/iblnic/idmobapp/PrivacyAndPolicy.html
+REQENDEKEY,Bx4817CfwoB9ShAXK07eQw==
+REQIVKEY,4fsaf7732hjbcd76
+RESIVKEY,4fsaf7732hjbcd76
+RESPENDEKEY,Bx4817CfwoB9ShAXK07eQw==
+RSA_BYPASS_ON,FALSE
+RSA_DENY_MESSAGE,Request is denied by bank due to security reasons. Please call 18002660616 for assistance - Indusind Bank
+RSA_LOCKOUT_MESSAGE,User is locked by bank due to security reasons. Please call 18002660616  for assistance - Indusind Bank
+RSA_ORG_NAME,INDUSIND_ID
+RSA_OTP_TEMPLATE,<#>Securely enter OTP @OTP@ to process IndusDirect App @module@. OTP valid for 5 min. Do not share with anyone efSyDN8yZWv - IndusInd Bank
+RSA_PASSWORD,iblcallerws@123
+RSA_USER_NAME,induscaller
+RTGSAMOUNT,200000
+RTGSAMOUNTMAX,"For RTGS Payments, Amount should be greater or equal to 2 Lacs."
+SECURITYURL,https://iblnic.indusind.com/iblnic/idmobapp/SecurityTnc.html
+SECURITYURLTNC,https://iblnic.indusind.com/iblnic/idmobapp/SecurityGuideLines.html
+SHOULD_SHOW_INT_EMAIL_BTN,1
+SHOULD_SHOW_INT_LOAN_OPTION,1
+SMSPRETEXT,INDCORPMBNKUAT
+SMS_VERIFY_SERVICE_COUNTER,4
+SMS_VERIFY_TIMER_INTERVAL,6
+SSOIV,ZL2Ech/qUjvWmNecAbfMvPH3GUiGbfIPvHHIfq6Jy8mMBuL4utRSWk65H0iAKICs
+SSOKEY,TsQiumwN1J1jCYHaQ3dDwmc1SCVVb0ieZ2DfapqFU+0=
+SSOOTPMSG1,<#>Securely enter OTP @OTP@ to proceed with authorisation to access Corporate Internet Banking efSyDN8yZWv - IndusInd Bank
+SSOOTPMSG2,"<#>Dear IndusInd Customer, your IndusDirect Mobile App Registration OTP is @OTP@ for Request ID @HINT@. Please do not share OTP with anyone for security reasons efSyDN8yZWv - IndusInd bank"
+STOCKTNC,https://iblnic.indusind.com/iblnic/idmobapp/TnC_StockStatement.html
+TCURL,https://iblnic.indusind.com/iblnic/idmobapp/TC.html
+TIN_CBDT_TRANS_CANCEL,Do you want to leave this transaction?
+TIN_MAKER_TRANS_SUCCESS,Payment submitted successfully and awaiting authorization
+TIN_TRANS_SUCCESS,Transaction initiated successfully. Please check the transaction status on TIN portal after some time.
+TIN_TRANS_SUCCESS_URL,https://eportalut.incometax.gov.in/iecuat/foservices/#/login
+TNCCBDTURL,https://iblnic.indusind.com/iblnic/idmobapp/CBDTTC.html
+TNCSETTINGSURL,https://iblnic.indusind.com/iblnic/idmobapp/TnC_noBtn.html
+TNCURL,https://iblnic.indusind.com/iblnic/idmobapp/TnC.htm
+TNCVERSION,4.0.0
+TNC_EXPIRE_DAYS,10
+TRADE_PRODUCT_REJECT_DUAL_OTP,aCth8TydZ89v6IGDsB+Ojg==
+UNLOCKMEMSG,"Dear IndusInd Customer, your OTP for unlock user is @OTP@ generated at @TIME@ valid for 5min."
+USER_LOCK_REGISTRATION,User has been locked. Please contact Support Team (idcsupport@indusind.com)
